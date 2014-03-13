@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GrayProcessJNI</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_proc">gray process</string>  
+    <string name="str_desc">image description</string>  
+
+</resources>
