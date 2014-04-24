@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageProcess</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_btn_proc">Process!</string>
+    <string name="str_btn_change">Switch to page 2 -></string>
+    <string name="str_image_view">image description</string> 
+    <string name="str_spinner">Choose a method</string>
+    <string name="str_pic">Choose a picture</string>
+    
+    <string name="str_image_view2">image description</string> 
+    <string name="str_spinner2">Choose a method</string>
+    <string name="str_pic2">Choose a picture</string>
+
+</resources>
